@@ -1,0 +1,49 @@
+* {
+  background-color: white;
+  font-family: calibri;
+}
+
+h1, h2 {
+  text-align: center;
+  margin-bottom: 1px;
+}
+h2 {
+  font-size: 80px;
+  margin: 1px;
+  padding-bottom: 20px;
+}
+
+.img-small {
+  width: 30%;
+  padding: 0 35%;
+  align-items: center;
+  margin-top: 2px;
+  display: block;
+  }
+#img-caption {
+  text-align: center;
+  padding-top: 10px
+  }
+#tribute-link {
+  text-align: center;
+margin: auto;
+display: block;
+width: fit-content;
+}
+.img-big {
+  width: 100%; 
+}
+
+.wall {
+  font-size: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#image {
+  display: block;
+  
+  max-width: 100%;
+}
+li {
+  padding: 10px 
+}
